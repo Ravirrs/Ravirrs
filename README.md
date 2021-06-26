@@ -1,17 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Ravirrs/Ravirrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+!--
 
-Here are some ideas to get you started:
-
-- 🔭 I'm currently working on 5 projects 
+- 🔭 I'm currently working on 5 projects to showcase my skills.
 - 🌱 I’m currently learning css javascript react
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on my side hustle.
+- 🤔 I’m looking for help with JS
+- 💬 Ask me about anything.
+- 📫 How to reach me: raviroushan.rr@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I talk a lot about Sci-Fi
+--
 ![](https://komarev.com/ghpvc/?username=Ravirrs&color=brightgreen)
