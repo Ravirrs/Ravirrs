@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I'm currently working on 5 projects to showcase my skills.
+- 🔭 I'm currently working on 5 projects to showcase my skills and get hired for dev roles.
 - 🌱 I’m currently learning css javascript react
 - 👯 I’m looking to collaborate on my side hustle.
 - 🤔 I’m looking for help with JS
