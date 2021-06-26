@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-!--
+
 
 - 🔭 I'm currently working on 5 projects to showcase my skills.
 - 🌱 I’m currently learning css javascript react
