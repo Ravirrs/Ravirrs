@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-
 - 🔭 I'm currently working on 5 projects to showcase my skills and get hired for dev roles.
 
+👺 I HATE MOSQUITOS. UNABLE TO GET RID OF THEM IN REAL LIFE.
 
 				
 
